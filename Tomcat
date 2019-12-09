@@ -1,0 +1,8 @@
+yum install java-1.8*
+java -version
+cd /opt
+wget http://apachemirror.wuchna.com/tomcat/tomcat-8/v8.5.49/bin/apache-tomcat-8.5.49.tar.gz
+tar -xvzf apache-tomcat-8.5.49.tar.gz
+cd apache-tomcat-8.5.49
+cd bin
+ls
