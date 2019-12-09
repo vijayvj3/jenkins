@@ -1,5 +1,6 @@
 yum install java-1.8*
 java -version
+yum install git -y
 cd /opt
 wget http://apachemirror.wuchna.com/tomcat/tomcat-8/v8.5.49/bin/apache-tomcat-8.5.49.tar.gz
 tar -xvzf apache-tomcat-8.5.49.tar.gz
